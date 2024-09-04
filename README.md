@@ -1,7 +1,5 @@
 # Devran Durmaz - Kişisel Web Sitesi
 
-![Devran Durmaz](https://via.placeholder.com/150) <!-- Profil fotoğrafınızın bağlantısını buraya ekleyin -->
-
 ## Hoş Geldiniz!
 
 Merhaba! Ben **Devran Durmaz**. Bu benim kişisel web sitem ve burada **bilim**, **yazılım**, **fizik**, ve **kimya** konularında yazdığım makaleleri bulabilirsiniz. Bilimsel araştırmalar ve teknoloji dünyasındaki yenilikler hakkında bilgi paylaşımında bulunmayı amaçlıyorum.
