@@ -22,10 +22,6 @@ Benimle iletişime geçmek isterseniz, aşağıdaki yöntemleri kullanabilirsini
 
 - **E-posta:** [devranaktas153@gmail.com](mailto:devranaktas153@gmail.com)
 
-### 🔗 Web Sitesi
-
-Web siteme [buradan erişebilirsiniz](https://DAS-AWORA.github.io) (Bu bağlantıyı kendi GitHub Pages URL’inizle güncelleyin).
-
 ### 🚀 Başlamak İçin
 
 Eğer bilim ve teknolojiye ilgi duyuyorsanız, web sitemi keşfedin ve en son makalelerimi okuyun. Geri bildirimlerinizi ve sorularınızı memnuniyetle karşılıyorum.
